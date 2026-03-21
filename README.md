@@ -1,8 +1,5 @@
 # ✈️ 无人机心跳监控系统（地面站版）
 
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32-green)
-
 实时模拟无人机心跳信号，通过地面站检测连接状态，3秒未收到心跳即判定为超时。
 
 ## 🚀 功能特性
