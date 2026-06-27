@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+altair
+requests
+folium
+streamlit-folium
+streamlit-geolocation
+shapely
+streamlit-autorefresh
